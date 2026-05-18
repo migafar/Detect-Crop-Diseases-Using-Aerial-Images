@@ -1,0 +1,9 @@
+1
+torchvision, albumentations
+
+Image modeling and augmentation
+
+2
+efficientnet_pytorch
+
+EfficientNet architecture
